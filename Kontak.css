@@ -1,0 +1,261 @@
+.u-block-3488-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-3488-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-3488-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: url("images/Snapinsta.app_395870724_892998032240151_7117905937361798524_n_1080.jpg");
+  background-position: 50% 84.65%;
+  min-height: 591px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1-1 {
+    min-height: 487px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1-1 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1-1 {
+    min-height: 280px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1-1 {
+    min-height: 176px;
+  }
+}
+
+ .u-section-1-2 {
+  background-image: url("images/Snapinsta.app_340001043_527189352944552_7659230574673223165_n_1080.jpg");
+  background-position: 50% 50%;
+  min-height: 591px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1-2 {
+    min-height: 487px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1-2 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1-2 {
+    min-height: 280px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1-2 {
+    min-height: 176px;
+  }
+}
+
+ .u-section-1-3 {
+  background-image: url("images/selonding.png");
+  background-position: 50% 50%;
+  min-height: 591px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1-3 {
+    min-height: 487px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1-3 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1-3 {
+    min-height: 280px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1-3 {
+    min-height: 176px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 494px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 70px auto 0;
+}
+
+.u-section-2 .u-line-1 {
+  width: 100px;
+  transform-origin: left center;
+  height: 3px;
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-auto-columns: calc(33.3333% - 6.66667px);
+  grid-template-columns: repeat(3, calc(33.3333% - 6.66667px));
+  min-height: 206px;
+  grid-gap: 10px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 10px 30px;
+}
+
+.u-section-2 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  background-image: none;
+  margin: 0 auto;
+  padding: 13px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 30px auto 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 10px 30px;
+}
+
+.u-section-2 .u-icon-2 {
+  width: 64px;
+  height: 64px;
+  background-image: none;
+  margin: 0 auto;
+  padding: 13px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 30px auto 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 10px 30px;
+}
+
+.u-section-2 .u-icon-3 {
+  width: 64px;
+  height: 64px;
+  background-image: none;
+  margin: 0 auto;
+  padding: 13px;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 30px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(33.333333333333336% - 6.66667px);
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 6.66667px));
+    min-height: 169px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 619px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(50% - 5.0000025px);
+    grid-template-columns: repeat(2, calc(50% - 5.0000025px));
+    min-height: 401px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 708px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
+    grid-template-columns: 100%;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 721px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: 100%;
+  }
+} .u-section-3 {
+  background-image: url("images/pura-taman-ayun_169.jpeg");
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 206px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 400px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 684px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 25px auto 0;
+}
+
+.u-section-4 .u-map-1 {
+  height: 514px;
+  margin-top: 33px;
+  margin-bottom: 60px;
+}
